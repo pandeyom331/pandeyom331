@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pandeyom331
-- 👀 I’m interested in Web design & development.
-- 🌱 I’m currently learning Web development
+- 👋 Hi, I’m Om 
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning Web development and Machine learning.
 - 💞️ I’m looking to collaborate on many projects which are in repository.
 - 📫 How to reach me my gmail pandeyom331@gmail.com
 

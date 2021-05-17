@@ -2,7 +2,6 @@
 pandeyom331/pandeyom331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <h1 align:left>cout<<"ALOHA FOLKS, I'm Om <img width="32" height="32" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />";</h1>
 
 <img align:left src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU" />
@@ -40,15 +39,16 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">Connect with me :-</h2>
 <p align="left" display="inline-block">
-<a href="https://www.linkedin.com/in/om-anand-pandey-85612b1ab/" ><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"> </a>
  
+<a href="https://pandeyom331.github.io/My-Web-porfolio/" rel="nofollow"><img src="https://camo.githubusercontent.com/3067b5f37b314a3dc069bed0c5ecb42e623013c21c4c9be9da96e697b6db2ca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3030413938463f7374796c653d666f722d7468652d6261646765266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Website-00A98F?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" style="max-width:100%;"></a>
+
 <a href="https://mail.google.com/mail/pandeyom331" rel="nofollow"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
 
-<a href="https://weather-app---v1.herokuapp.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/3067b5f37b314a3dc069bed0c5ecb42e623013c21c4c9be9da96e697b6db2ca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3030413938463f7374796c653d666f722d7468652d6261646765266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Website-00A98F?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/om-anand-pandey-85612b1ab/" ><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"> </a>
 
 <a href="https://discord.com/channels/@D3MON#4156" rel="nofollow"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width:100%;"></a>
 
-<a href="https://instagram.com/ompandey_134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ompandey_134" height="30" width="40" /></a>
+
 </p>
 
 <hr>

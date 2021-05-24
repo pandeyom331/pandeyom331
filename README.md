@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-<h2><a src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>Stats :-</h2>
+<h2>📈</g-emoji>Stats :-</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=pandeyom331&show_icons=true&title_color=fff&icon_color=00FFFF&text_color=FFFF00&bg_color=151515" />
 
